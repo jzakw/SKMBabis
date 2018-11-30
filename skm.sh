@@ -35,7 +35,7 @@ EOF
     cat <<EOF | column -s\& -t
     -h, --help          & shows this help and terminates
     -i, --id            & BUT BRNO id (e.g. 211193)
-    -d, --date-from     & from which date may be bills gained (e.g. 20.01.2018, defaults 01.09.2018)
+    -d, --date-from     & (not working) from which date may be bills gained (e.g. 20.01.2018, defaults 01.09.2018)
     -p, --password      & your BUT IS password (e.g. uHergD78pyhj)
     -m, --mail          & email of the player (e.g. foo@bar.baz)
     -r, --register      & register to Uctenkovka, in order to register billet you must download script uctenkovka.sh from https://gist.github.com/stuchl4n3k/af0178701122e501d6a3a33a117d7d04 and place it into same folder
